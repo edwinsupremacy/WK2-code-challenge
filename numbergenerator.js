@@ -11,4 +11,3 @@ function numberGenerator(value1, value2) {
     }
     return answer;
 }
-console.log(numberGenerator(1,2))
